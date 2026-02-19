@@ -4,8 +4,6 @@ A modern, responsive **real-time polling/voting application** built with **React
 
 Create polls quickly, share them with friends, colleagues or communities, and see live vote results update in real time.
 
-![Poll App Screenshot](https://via.placeholder.com/800x450.png?text=Poll+App+Screenshot)  
-*(Replace this with an actual screenshot of your app – highly recommended!)*
 
 ## ✨ Features
 
@@ -28,23 +26,6 @@ Create polls quickly, share them with friends, colleagues or communities, and se
 - **Charts**: Recharts / Chart.js / ApexCharts
 - **Routing**: React Router DOM
 - **Build Tool**: Vite (recommended) or Create React App
-
-## 🚀 Live Demo
-
-(If you have deployed it)
-
-→ [Live Demo](https://your-poll-app.vercel.app)  
-→ [Alternative Link](https://poll-app-lukesh.netlify.app)
-
-## 📸 Screenshots
-
-(Add 2–4 screenshots here – create & upload them to the repo or use imgur/external hosting)
-
-| Create Poll          | Voting Screen        | Live Results         |
-|----------------------|----------------------|----------------------|
-| ![Create](screenshots/create.png) | ![Vote](screenshots/vote.png) | ![Results](screenshots/results.png) |
-
-## 🏁 Getting Started
 
 ### Prerequisites
 
